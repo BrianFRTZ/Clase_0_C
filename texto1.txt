@@ -1,0 +1,7 @@
+Hola GIT!
+
+git init => Creamos un repositorio.
+git status => Vemos info del repo
+git add texto1.txt => añadir al commit
+git commit -m "Nombre del commit"
+git push => subir el commit a github o algun otro repositorio
